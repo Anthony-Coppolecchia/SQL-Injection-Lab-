@@ -7,8 +7,8 @@ A deliberately vulnerable web application was deployed in a controlled lab envir
 
 - **Windows 10 VM (Attacking Machine)**
 - **Ubuntu Server VM (Victim Machine)**
-- Firefox Browser
-- Ubuntu Terminal/Shell
+- **Firefox Browser**
+- **Ubuntu Terminal/Shell**
  ## Objectives 
 - Deploy a web application with known SQL Injection vulnerabilities 
 - Perform manual SQL Injection via web forms and URL parameters
