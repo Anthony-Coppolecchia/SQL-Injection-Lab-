@@ -5,8 +5,8 @@ A deliberately vulnerable web application was deployed in a controlled lab envir
 
 ## TOOLS
 
--**Windows 10 VM (Attacking Machine)
--**Ubuntu Server VM (Victim Machine)
+- **Windows 10 VM (Attacking Machine)**
+- **Ubuntu Server VM (Victim Machine)**
 - Firefox Browser
 - Ubuntu Terminal/Shell
  ## Objectives 
